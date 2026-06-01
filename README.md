@@ -101,7 +101,7 @@ This project helped strengthen skills in:
 
 ## 👨‍💻 Developer
 
-Developed by **Aashish Kumar**
+Developed by **Aashish Karn**
 
 ---
 
